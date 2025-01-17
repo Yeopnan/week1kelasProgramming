@@ -51,11 +51,14 @@ nav a {
   text-decoration: none;
 }
 button {
+  display: flex;
+  position: relative;
   background-color: #ff3385;
   color: #fff;
   border-radius: 10px;
   padding: 20px;
   font-size: 20px;
+  align-items: center;
 }
 button :hover {
   background-color: rgb(174, 209, 238);
