@@ -64,8 +64,3 @@ button :hover {
   background-color: rgb(174, 209, 238);
   color: #1a000a;
 }
-# {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
